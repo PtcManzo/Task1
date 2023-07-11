@@ -1,0 +1,12 @@
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.product-image {
+    width: 400px;
+    height: 400px; 
+    object-fit: contain;
+  }
+  
+  
